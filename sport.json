@@ -1,21 +1,20 @@
 {
-"name": "30%",
-"author": "-",
-"image": "https://raw.githubusercontent.com/i7ytwin/image/refs/heads/main/4bd4be3ac355a4752bf9bbc541a18927.png",
-"groups": [
+  "name": "sport",
+  "author": "-",
+  "image": "https://images.emojiterra.com/microsoft/fluent-emoji/15.1/1024px/1f535_color.png",
+  "url": "",
+  "info": "",
  
- 
- 
-{
-"name": Refresh",
-"image":"https://raw.githubusercontent.com/i7ytwin/image/refs/heads/main/360_F_786744436_kY0pEddGsULVlPCma90qTX4r6SuxFLOg.png",
-"url":""
-},
-{
-"name": "Sports",
-"image": "https://images.emojiterra.com/microsoft/fluent-emoji/15.1/1024px/1f535_color.png",
-"url": "",
-"import": false
-},
-]
+  "stations": [
+   
+    {
+      "name": "Beinsport 1",
+      "image": "https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.png",
+      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-1/chunks.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    }
+  ]
 }
