@@ -16,5 +16,95 @@
       "info": "",
       "playInNatPlayer": "true"
     }
+    {
+      "name": "Beinsport 2",
+      "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_425_305",
+      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-2/chunks.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    }
+    {
+      "name": "Beinsport 3",
+      "image": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_425_305",
+      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-3/chunks.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    }
+    {
+      "name": "Monomax",
+      "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
+      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/football-play-1/chunks.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    }
+    {
+      "name": "Monomax1",
+      "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
+      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siam-1/chunks.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    }
+    {
+      "name": "Truesport 1",
+      "image": "http://tvsmagazine.com/images/channels/lrg_097.jpg",
+      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-4/chunks.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    }
+    {
+      "name": "Truesport 2",
+      "image": "http://tvsmagazine.com/images/channels/lrg_123.jpg",
+      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-5/chunks.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    }
+    {
+      "name": "Truesport 3",
+      "image": "http://tvsmagazine.com/images/channels/lrg_184.jpg",
+      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-6/chunks.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    }
+    {
+      "name": "Truesport 5",
+      "image": "http://tvsmagazine.com/images/channels/lrg_056.jpg",
+      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-8/chunks.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    }
+    {
+      "name": "Truesport 7",
+      "image": "http://tvsmagazine.com/images/channels/lrg_105.jpg",
+      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-9/chunks.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    }
+    {
+      "name": "LFC",
+      "image": "http://tvsmagazine.com/images/channels/lrg_105.jpg",
+      "url": "https://ddy6new.newkso.ru/ddy6/premium826/mono.m3u8",
+      "referer": "https://daddylivehd1.my/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    }
   ]
 }
