@@ -35,6 +35,24 @@
       "playInNatPlayer": "true"
     },
     {
+      "name": "Spo1",
+      "image": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/true-spotv-1/chunks.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Spo2",
+      "image": "https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/true-spotv-2/chunks.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
       "name": "Monomax",
       "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
       "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/football-play-1/chunks.m3u8",
@@ -99,7 +117,7 @@
     },
     {
       "name": "LFC",
-      "image": "http://tvsmagazine.com/images/channels/lrg_105.jpg",
+      "image": "https://media.info/l/o/1/1442.1642633783.png",
       "url": "https://ddy6new.newkso.ru/ddy6/premium826/mono.m3u8",
       "referer": "https://daddylivehd1.my/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
