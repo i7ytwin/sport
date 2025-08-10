@@ -62,6 +62,15 @@
       "playInNatPlayer": "true"
     },
     {
+      "name": "Monomax",
+      "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
+      "url": "https://streamamg-fa.akamaiz.com/dookeela/dklsport2/chunks.m3u8",
+      "referer": "https://dookeela2.live/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
       "name": "Monomax2",
       "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
       "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siam-2/chunks.m3u8",
