@@ -203,10 +203,37 @@
       "playInNatPlayer": "true"
     },
     {
+      "name": "Truesport 2",
+      "image": "http://tvsmagazine.com/images/channels/lrg_123.jpg",
+      "url": "https://dookeela2.live/live-tv/tsp2",
+      "referer": "https://dookeela2.live",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
       "name": "Truesport 3",
       "image": "http://tvsmagazine.com/images/channels/lrg_184.jpg",
       "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siamsport-6/chunks.m3u8",
       "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Truesport 3",
+      "image": "http://tvsmagazine.com/images/channels/lrg_184.jpg",
+      "url": "https://dookeela2.live/live-tv/tsp3#",
+      "referer": "https://dookeela2.live",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Truesport 4",
+      "image": "http://tvsmagazine.com/images/channels/lrg_184.jpg",
+      "url": "https://cdnsv1.bunnycdncloud.com/ball67/truesportsd5/th-sport/truesport5/chunks.m3u8",
+      "referer": "https://ball67.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
