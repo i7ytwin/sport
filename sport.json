@@ -64,22 +64,6 @@
     {
       "name": "Monomax1",
       "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
-      "url": "https://slave02.appball.vip/hls/mono1.m3u8",
-      "referer": "https://demo-live.siamzeed.com/",
-      "info": "",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "Monomax1",
-      "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
-      "url": "https://slave02.appball.vip/hls/mono2.m3u8",
-      "referer": "https://demo-live.siamzeed.com/",
-      "info": "",
-      "playInNatPlayer": "true"
-    },
-    {
-      "name": "Monomax1",
-      "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
       "url": "https://slave02.appball.vip/hls/mono3.m3u8",
       "referer": "https://demo-live.siamzeed.com/",
       "info": "",
@@ -97,16 +81,17 @@
     {
       "name": "Monomax2",
       "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
-      "url": "https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8",
+      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siam-2/chunks.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
     },
     {
       "name": "Monomax2",
       "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
-      "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siam-2/chunks.m3u8",
+      "url": "https://slave02.appball.vip/hls/mono1.m3u8",
       "referer": "https://demo-live.siamzeed.com/",
-      "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
       "info": "",
       "playInNatPlayer": "true"
     },
@@ -116,6 +101,14 @@
       "url": "https://dolive.thaim3u.com/demo-live-siamzeed-com/siam-3/chunks.m3u8",
       "referer": "https://demo-live.siamzeed.com/",
       "userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+      "info": "",
+      "playInNatPlayer": "true"
+    },
+    {
+      "name": "Monomax1",
+      "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
+      "url": "https://slave02.appball.vip/hls/mono2.m3u8",
+      "referer": "https://demo-live.siamzeed.com/",
       "info": "",
       "playInNatPlayer": "true"
     },
